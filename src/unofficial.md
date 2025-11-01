@@ -23,8 +23,10 @@ Introductory:
 * [_r4cppp_](https://github.com/nrc/r4cppp/blob/master/hello-world.md) - quick introduction to Rust for C++ programmers
 * [rust-cross](https://github.com/japaric/rust-cross#table-of-contents) - everything you need to know about cross compiling Rust programs!
 * [Rust Anthology 1](https://brson.github.io/rust-anthology/1/index.html)
+* [_Rust Atomics and Locks_](https://marabos.nl/atomics/) - Low-Level Concurrency in Practice
 * [Rust By Practice](https://practice.rs/) - Rust practice through challenging examples, exercises and projects
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
+* [Rust Exercises by Ferrous Systems](https://rust-exercises.ferrous-systems.com/)
 * [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
 * [_Rust for Clojurists_](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 * [_Rust for Node Developers_](https://github.com/Mercateo/rust-for-node-developers/blob/master/setup/README.md)
@@ -32,10 +34,10 @@ Introductory:
 * [_Rustic Symmetries_](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries)
 * [_Rust Iterators_](https://github.com/rustomax/rust-iterators/#introduction)
 * [_Rust Ownership, the Hard Way_](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
+* [_Rust Training Slides by Ferrous Systems_](https://rust-training.ferrous-systems.com/latest/slides/)
 * [Rust 101](https://rust-lang.guide/) - Rust programming language learning guide
 * [Small Rust Tutorial For MLOps](https://nogibjj.github.io/rust-tutorial/) - learn Rust for MLOps
 * [The Node Experiment: Exploring Async Basics with Rust](https://web.archive.org/web/20230125023131/https://cfsamson.github.io/book-exploring-async-basics/) - from the internet archive
-
 
 Application domains:
 * Async
