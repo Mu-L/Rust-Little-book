@@ -33,6 +33,7 @@ Applications of Rust:
   * [GUI development with Relm4](https://relm4.org/book/stable/)
   * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
   * [SixtyFPS Memory Game Tutorial (Rust)](https://sixtyfps.io/releases/0.1.4/docs/tutorial/rust/) - tutorial using the SixtyFPS GUI toolkit
+* [_Hypervisor in 1000 lines_](https://1000hv.seiya.me/en/)
 * [intermezzOS OS](http://intermezzos.github.io/book/second-edition/)
 * [_nalgebra_](https://nalgebra.org/docs/) - a linear algebra library
 * [OpenPGP Card](https://openpgp-card.gitlab.io/guide/)
@@ -49,4 +50,5 @@ Applications of Rust:
 * [The Nom Guide (Nominomicon)](https://tfpk.github.io/nominomicon/) - a parser combinator library
 * [The Redox Operating System](https://doc.redox-os.org/book/)
 * [Thesus OS](https://theseus-os.github.io/Theseus/book/index.html)
+* [_Writing an OS in Rust_](https://os.phil-opp.com/)
 * [The Zebra Book](https://zebra.zfnd.org/)

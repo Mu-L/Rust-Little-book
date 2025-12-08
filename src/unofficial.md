@@ -14,28 +14,30 @@ Introductory:
 * [Error Handling in Rust](https://nrc.github.io/error-docs/)
 * [Futures Explained in 200 Lines of Rust](https://web.archive.org/web/20230324130904/https://cfsamson.github.io/books-futures-explained/) - from the internet archive
 * [_Java-Rust Generics_](https://gist.github.com/Kimundi/8391398)
-* [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [Learning Rust](https://quinedot.github.io/rust-learning/index.html) - a collection of resources by `quinedot`
 * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+* [_Learn Rust the Dangerous Way_](http://cliffle.com/p/dangerust/)
 * [LifetimeKata](https://tfpk.github.io/lifetimekata/)
 * [_Pointers_](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md)
 * [py2rs](https://rochacbruno.github.io/py2rs/) - from Python into Rust
 * [_r4cppp_](https://github.com/nrc/r4cppp/blob/master/hello-world.md) - quick introduction to Rust for C++ programmers
-* [rust-cross](https://github.com/japaric/rust-cross#table-of-contents) - everything you need to know about cross compiling Rust programs!
+* [Rust 101](https://rust-lang.guide/) - Rust programming language learning guide
 * [Rust Anthology 1](https://brson.github.io/rust-anthology/1/index.html)
+* [_Rust Atomics and Locks_](https://marabos.nl/atomics/) - Low-Level Concurrency in Practice
 * [Rust By Practice](https://practice.rs/) - Rust practice through challenging examples, exercises and projects
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - a collection of example programs
-* [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
+* [rust-cross](https://github.com/japaric/rust-cross#table-of-contents) - everything you need to know about cross compiling Rust programs!
+* [Rust Exercises by Ferrous Systems](https://rust-exercises.ferrous-systems.com/)
 * [_Rust for Clojurists_](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
+* [Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/index.html)
 * [_Rust for Node Developers_](https://github.com/Mercateo/rust-for-node-developers/blob/master/setup/README.md)
 * [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 * [_Rustic Symmetries_](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries)
 * [_Rust Iterators_](https://github.com/rustomax/rust-iterators/#introduction)
 * [_Rust Ownership, the Hard Way_](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
-* [Rust 101](https://rust-lang.guide/) - Rust programming language learning guide
+* [_Rust Training Slides by Ferrous Systems_](https://rust-training.ferrous-systems.com/latest/slides/)
 * [Small Rust Tutorial For MLOps](https://nogibjj.github.io/rust-tutorial/) - learn Rust for MLOps
 * [The Node Experiment: Exploring Async Basics with Rust](https://web.archive.org/web/20230125023131/https://cfsamson.github.io/book-exploring-async-basics/) - from the internet archive
-
 
 Application domains:
 * Async
