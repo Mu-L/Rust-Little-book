@@ -45,6 +45,12 @@ Each entry is of the form:
 * [The Literal Title of The Book](https://a-link-to-the/book/) - an optional comment if the title isn't self-explanatory
 ```
 
+Entries for items in formats other than mdbook are italicised, like this:
+
+```markdown
+* [_The Literal Title of The Item_](https://a-link-to-the/book/) - an optional comment if the title isn't self-explanatory
+```
+
 The `.editorconfig` file captures basic source files formatting conventions.
 Many editors support this file natively; others (such as VS code) require a plugin, see https://editorconfig.org/.
 
