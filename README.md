@@ -13,20 +13,25 @@ See the [rendered book](https://lborb.github.io/book/).
 ## Development
 
 Install [`mdbook`](https://github.com/rust-lang/mdBook):
-```
+
+```console
 cargo install mdbook
 ```
 
 Build the book:
-```
+
+```console
 mdbook build
 ```
+
 The generated files are in the `book` directory.
 
 View the built book:
-```
+
+```console
 mdbook serve
 ```
+
 This will launch a local web server to serve the book. Navigate to
 [localhost:3000](http://localhost:3000/) in a web browser. While the web server
 is running, the rendered book will automatically update if the source files
@@ -35,7 +40,8 @@ change.
 ### Conventions
 
 Each entry is of the form:
-```
+
+```markdown
 * [The Literal Title of The Book](https://a-link-to-the/book/) - an optional comment if the title isn't self-explanatory
 ```
 
